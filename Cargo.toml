@@ -1,5 +1,10 @@
 [package]
 name = "md-word-count"
+description = "A simple library for counting words in Markdown text. The intent is to match the behavior of LibreOffice and Microsoft Word."
+license-file = "LICENSE"
+homepage = "https://github.com/AdamIsrael/md-word-count"
+repository = "https://github.com/AdamIsrael/md-word-count"
+documentation = "https://github.com/AdamIsrael/md-word-count"
 version = "0.1.0"
 edition = "2024"
 
