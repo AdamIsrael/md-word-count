@@ -1,0 +1,15 @@
+[package]
+name = "md-word-count"
+version = "0.1.0"
+edition = "2024"
+
+[lib]
+name = "md_word_count"
+path = "src/lib.rs"
+
+[[bin]]
+name = "md-word-count"
+path = "src/bin.rs"
+
+[dependencies]
+regex = "1.12.3"
